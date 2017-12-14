@@ -133,13 +133,4 @@
         </repository>
     </repositories>
 
-    <distributionManagement>
-        <repository>
-            <id>central</id>
-            <name>1953b71548cb-releases</name>
-            <url>https://artifactory.colorado.edu/artifactory/libs-release</url>
-        </repository>
-    </distributionManagement>
-
-
 </project>
