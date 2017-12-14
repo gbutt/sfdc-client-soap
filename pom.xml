@@ -81,7 +81,7 @@
     </dependencies>
 
     <build>
-        <finalName>ier-etl</finalName>
+        <finalName>sfdc-client-soap</finalName>
         <directory>target</directory>
         <pluginManagement>
             <plugins>
