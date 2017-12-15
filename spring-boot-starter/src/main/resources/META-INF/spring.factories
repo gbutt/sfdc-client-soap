@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+edu.colorado.oit.crm.salesforce.autoconfigure.SalesforceAutoConfiguration
