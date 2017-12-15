@@ -24,10 +24,4 @@
         </dependency>
     </dependencies>
 
-    <build>
-        <finalName>sfdc-client-soap</finalName>
-        <directory>target</directory>
-    </build>
-
-
 </project>
