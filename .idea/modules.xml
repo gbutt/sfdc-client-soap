@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
       <module fileurl="file://$PROJECT_DIR$/sfdc-client-soap.iml" filepath="$PROJECT_DIR$/sfdc-client-soap.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-boot-autoconfigure/spring-boot-autoconfigure.iml" filepath="$PROJECT_DIR$/spring-boot-autoconfigure/spring-boot-autoconfigure.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-starter/spring-boot-starter.iml" filepath="$PROJECT_DIR$/spring-boot-starter/spring-boot-starter.iml" />
     </modules>
   </component>

@@ -5,8 +5,7 @@
     <parent>
         <artifactId>sfdc-client-soap-parent</artifactId>
         <groupId>edu.colorado.oit.crm</groupId>
-        <version>39.0.0</version>
-        <relativePath>../pom.xml</relativePath>
+        <version>39.1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
