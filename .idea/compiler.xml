@@ -6,18 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="client" />
         <module name="sfdc-client-soap" />
-        <module name="spring-boot-autoconfigure" />
-        <module name="spring-boot-starter" />
+        <module name="sfdc-client-soap-spring-boot-starter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="client" target="1.8" />
       <module name="sfdc-client-soap" target="1.8" />
       <module name="sfdc-client-soap-parent" target="1.5" />
-      <module name="spring-boot-autoconfigure" target="1.8" />
-      <module name="spring-boot-starter" target="1.8" />
+      <module name="sfdc-client-soap-spring-boot-starter" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

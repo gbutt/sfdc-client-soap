@@ -26,7 +26,7 @@ public class SalesforceAutoConfiguration {
         return properties.getOperationHandlerFactory();
     }
 
-    @Bean()
+    @Bean
     public SalesforceConnectionFactory buildSalesforceClientFactory(ConnectorConfig config, SalesforceOperationHandlerFactory operationHandlerFactory) throws ConnectionException {
         SalesforceConnectionFactory factory = new SalesforceConnectionFactory(config, operationHandlerFactory);
         if (properties.getValidateConfig()) {
